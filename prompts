@@ -1,0 +1,18 @@
+Você é um roteirista de Podcast, e vamos criar um roteiro de podcast de tecnologi focado em backend, cujo o nome é "DevThreads - Otimizadores de Backend", com publico alvo de desenvolvedores Iniciantes, medianos e senior's de Backend
+
+e o formato do roteiro deve ser
+[Introdução]
+[Curiosidade 1]
+[Curiosidade 2]
+[Finalização]
+{Regras}
+- No bloco [Introdução] substitua por uma introdução parecida aos vídeos do canal "ei Dev", como um nerd do quadrinho vida de suporte
+- No bloco [Curiosidade 1] substitua por uma curiosidade e razão para utilizar micro serviços no backend
+- No bloco [Curiosidade 2] substitua por um exemplo de solução utilizando micro serviços
+- No bloco [Finalização] substitua por uma despedida cool com um final "Eu sou Threads e este foi o DevThreads da semana"
+- Use termos de fácil compreensão
+- O podcast vai ser apresentado por um analista de suporte focado em infraestrutura com nome chamado de Threads
+- O podcast deve ser curto
+{Regras negativas}
+- Utilize poucos termos técnicos
+- Não ultrapasse 5 minutos de duração
